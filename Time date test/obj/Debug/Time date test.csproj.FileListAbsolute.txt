@@ -1,0 +1,10 @@
+F:\Adams apps\Time date test\bin\Debug\Time date test.exe.config
+F:\Adams apps\Time date test\bin\Debug\Time date test.exe
+F:\Adams apps\Time date test\bin\Debug\Time date test.pdb
+F:\Adams apps\Time date test\obj\Debug\Time date test.csproj.AssemblyReference.cache
+F:\Adams apps\Time date test\obj\Debug\Time_date_test.Form1.resources
+F:\Adams apps\Time date test\obj\Debug\Time_date_test.Properties.Resources.resources
+F:\Adams apps\Time date test\obj\Debug\Time date test.csproj.GenerateResource.cache
+F:\Adams apps\Time date test\obj\Debug\Time date test.csproj.CoreCompileInputs.cache
+F:\Adams apps\Time date test\obj\Debug\Time date test.exe
+F:\Adams apps\Time date test\obj\Debug\Time date test.pdb
